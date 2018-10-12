@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+About Kristen!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Lover of board games, Harry Potter, and all things data science.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ksbystrom@gmail.com](mailto:ksbystrom@gmail.com)

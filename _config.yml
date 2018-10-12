@@ -19,16 +19,11 @@ avatar: https://avatars2.githubusercontent.com/u/16736841?s=460&v=4
 # Includes an icon in the footer for each username you enter
 footer-links:
   email: kbystrom@sfu.ca
-  facebook: Kristen Bystrom
-  github: github.com/ksbystrom
-  instagram: www.instagram.com/ksbystrom/
-  linkedin: www.linkedin.com/in/kristen-bystrom-45583aa9/
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-
+  facebook: https://www.facebook.com/kristen.bystrom
+  github: https://www.github.com/ksbystrom
+  instagram: https://www.instagram.com/ksbystrom/
+  linkedin: https://www.linkedin.com/in/kristen-bystrom-45583aa9/
+  twitter: https://twitter.com/K_Bystrom
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
